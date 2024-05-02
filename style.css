@@ -1,0 +1,23 @@
+.mit {
+    color: #DC143C;
+    background-color: yellow;
+    border: dotted black 4px;
+}
+.mit:hover {
+    color: #8B0000;
+    background-color: orange;
+    border: solid darkgrey 2px;
+}
+
+.tim {
+    color: navy;
+    background-color:#A9A9A9;
+    border: solid black 2px;
+    
+}
+
+.tim:hover {
+    transition: all 2s linear;
+    color: #87CEEB;
+    font-size: 50px;
+}
